@@ -2,7 +2,7 @@
 
 💻 I'm a software enginner located in 🥟Poland
 
-✨ Deeply involved & interested in Web development and Smart Home subjects
+✨ Interested in Web development and Smart Home subjects
 
 📫 LinkedIn [*https://www.linkedin.com/in/pawelbanach/*](https://www.linkedin.com/in/pawelbanach/)
 
