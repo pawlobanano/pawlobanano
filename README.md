@@ -6,3 +6,4 @@
 
 📫 LinkedIn [*https://www.linkedin.com/in/pawelbanach/*](https://www.linkedin.com/in/pawelbanach/)
 
+![](code_rafting_left_and_right.gif)
