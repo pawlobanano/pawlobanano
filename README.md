@@ -2,7 +2,7 @@
 
 💻 I'm a software developer located in 🥟Poland
 
-✨ Interested in backend Web development and Smart Home subjects
+✨ Area of IT interest - backend Web development and Smart Home subjects
 
 📫 LinkedIn [*https://www.linkedin.com/in/pawelbanach/*](https://www.linkedin.com/in/pawelbanach/)
 
